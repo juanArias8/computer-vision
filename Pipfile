@@ -9,6 +9,7 @@ opencv-python = "*"
 matplotlib = "*"
 numpy = "*"
 mediapipe = "*"
+importlib-resources = "*"
 
 [dev-packages]
 
